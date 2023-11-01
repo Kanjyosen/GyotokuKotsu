@@ -1,0 +1,15 @@
+#button {
+  background:   linear-gradient(to right, #5b9bd5, #ed7d31);
+  color:        white;
+  width:        20%;
+  text-align:   left;
+  border:       3px solid;
+  border-color: #44546a;
+  height:       50px;
+  fload:        left;
+  line-height:  25px;
+}
+
+#headmenu {
+  display:      flex;
+}
